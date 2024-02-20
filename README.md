@@ -4,7 +4,8 @@
 
 Hello. I'm Junho Jang.
 
-I live in South Korea  
-I'm learning to code  
-I love HTML/CSS/JS, Java/Kotlin and Python  
+I live in South Korea
+I'm learning to code 
+I love Java/Kotlin and Python
+I am learning HTML/CSS
 Have a great day!
