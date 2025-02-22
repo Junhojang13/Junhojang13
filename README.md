@@ -1,11 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">I'm a student developer</h3>
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=Junhojang13)
 
-# Introduction
+<div align="center">
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/1089392756616597564?showDisplayName=true)](https://discord.com/users/1089392756616597564)
 
-* I live in South Korea.
-* I'm learning to code.
-* I love Java/Kotlin and Python.
-* I am learning HTML/CSS.
-* Have a great day!
+<div>
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Junhjang13&show_icons=true&theme=dark)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junhojang13&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
