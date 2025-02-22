@@ -11,7 +11,7 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Junhjang13&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Junhojang13&show_icons=true&theme=dark)
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junhojang13&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
