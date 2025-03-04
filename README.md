@@ -4,12 +4,6 @@
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=Junhojang13)
 
 <div align="center">
-  
-[![Discord Presence](https://lanyard.cnrad.dev/api/1089392756616597564?showDisplayName=true)](https://discord.com/users/1089392756616597564)
-
-<div>
-
-<div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Junhojang13&show_icons=true&theme=dark)
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junhojang13&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
